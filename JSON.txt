@@ -1,0 +1,25 @@
+{
+    "planilla":{
+        "planilla":
+        {
+            "anio":2021,
+            "mes":"4",
+            "totalPago":1000
+        },
+        "lstPersonas":
+        [
+            {
+                "codigo":213,
+                "nombre":"Mikel",
+                "apellido":"Escobar",
+                "edad":42
+            },
+            {
+                "codigo":456,
+                "nombre":"Hector",
+                "apellido":"Galo",
+                "edad":42
+            }
+        ]
+    }
+}
